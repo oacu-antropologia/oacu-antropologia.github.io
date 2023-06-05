@@ -26,22 +26,6 @@
             "date_modified": "2023-06-05T15:31:15+02:00"
         },
         {
-            "id": "https://www2.observatoriconflicteurba.org/tallers/",
-            "url": "https://www2.observatoriconflicteurba.org/tallers/",
-            "title": "Tallers",
-            "summary": "Barcelona 16 03 2016 Turistas con maletas en la ciudad Fotografia Albert Bertran",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://www2.observatoriconflicteurba.org/media/posts/80/gallery/thumbnail_image.webp\" data-size=\"452x640\"><img loading=\"lazy\" src=\"https://www2.observatoriconflicteurba.org/media/posts/80/gallery/thumbnail_image-thumbnail.webp\" alt=\"\" width=\"452\" height=\"640\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www2.observatoriconflicteurba.org/media/posts/80/gallery/la-vida-cotidiana-en-la-resignificacic3b3n-del-patrimonio.webp\" data-size=\"750x381\"><img loading=\"lazy\" src=\"https://www2.observatoriconflicteurba.org/media/posts/80/gallery/la-vida-cotidiana-en-la-resignificacic3b3n-del-patrimonio-thumbnail.webp\" alt=\"\" width=\"720\" height=\"366\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www2.observatoriconflicteurba.org/media/posts/80/gallery/folks-vaguen-ok.webp\" data-size=\"750x474\"><img loading=\"lazy\" src=\"https://www2.observatoriconflicteurba.org/media/posts/80/gallery/folks-vaguen-ok-thumbnail.webp\" alt=\"\" width=\"720\" height=\"455\"></a>\n<figcaption>Barcelona 16 03 2016 Turistas con maletas en la ciudad Fotografia Albert Bertran</figcaption>\n</figure>\n</div></div>",
-            "author": {
-                "name": "OACU"
-            },
-            "tags": [
-                   "Tallers",
-                   "Activitats"
-            ],
-            "date_published": "2023-05-31T11:22:22+02:00",
-            "date_modified": "2023-05-31T11:25:10+02:00"
-        },
-        {
             "id": "https://www2.observatoriconflicteurba.org/del-boudoir-al-trottoir/",
             "url": "https://www2.observatoriconflicteurba.org/del-boudoir-al-trottoir/",
             "title": "Del &quot;boudoir&quot; al &quot;trottoir&quot;. Per Christianne Gomez",
@@ -166,6 +150,22 @@
             ],
             "date_published": "2021-06-04T18:25:00+02:00",
             "date_modified": "2023-05-30T18:27:48+02:00"
+        },
+        {
+            "id": "https://www2.observatoriconflicteurba.org/esperits-de-la-diaspora-ritual-i-espai-urba-entre-casablanca-i-barcelona/",
+            "url": "https://www2.observatoriconflicteurba.org/esperits-de-la-diaspora-ritual-i-espai-urba-entre-casablanca-i-barcelona/",
+            "title": "Esperits de la diàspora: ritual i espai urbà entre Casablanca i Barcelona",
+            "summary": "La transformació de l'espai urbà afecta les pràctiques populars arrelades als barris, a les places i als carrers; la demolició d'un barri i el trasllat dels seus habitants poden transformar definitivament les relacions socials, amb efectes no només econòmics sinó també culturals i polítics. Un&hellip;",
+            "content_html": "<p>La transformació de l'espai urbà afecta les pràctiques populars arrelades als barris, a les places i als carrers; la demolició d'un barri i el trasllat dels seus habitants poden transformar definitivament les relacions socials, amb efectes no només econòmics sinó també culturals i polítics. Un dels aspectes menys estudiat d'aquestes transformacions és l'impacte sobre la vida religiosa i ritual de les classes populars. A partir d'un treball de recerca desenvolupat a la ciutat de Casablanca presentaré les característiques espacials d'un complex musical i religiós molt arrelat a la antiga medina de la ciutat, el de la confraria Gnawa, intentant esbrinar quins efectes té la gentrificació del centre de la ciutat sobre el desenvolupament de la seva vida ritual.</p>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube-nocookie.com/embed/u7St3OCmYjE\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "author": {
+                "name": "OACU"
+            },
+            "tags": [
+                   "Seminari de recerca",
+                   "Activitats"
+            ],
+            "date_published": "2021-06-04T18:23:00+02:00",
+            "date_modified": "2023-05-30T18:23:48+02:00"
         }
     ]
 }
