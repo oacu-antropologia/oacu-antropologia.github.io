@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://www2.observatoriconflicteurba.org/los-chalecos-amarillos-en-el-planeta-de-los-simios-el-motor-racista-de-la-extrema-derecha-en-chile/",
+            "url": "https://www2.observatoriconflicteurba.org/los-chalecos-amarillos-en-el-planeta-de-los-simios-el-motor-racista-de-la-extrema-derecha-en-chile/",
+            "title": "Los chalecos amarillos en el planeta de los simios: el motor racista de la extrema derecha en Chile",
+            "summary": "Incivismes: Diàlegs sobre la destrucció i l'entristiment de les ciutats",
+            "content_html": "<figure class=\"post__image post__image--center align-center\"><em><img loading=\"lazy\"  src=\"https://www2.observatoriconflicteurba.org/media/posts/89/cartel_incivisme2.jpg\" alt=\"\" width=\"1280\" height=\"720\" sizes=\"100vw\" srcset=\"https://www2.observatoriconflicteurba.org/media/posts/89/responsive/cartel_incivisme2-xs.jpg 300w ,https://www2.observatoriconflicteurba.org/media/posts/89/responsive/cartel_incivisme2-sm.jpg 480w ,https://www2.observatoriconflicteurba.org/media/posts/89/responsive/cartel_incivisme2-md.jpg 768w ,https://www2.observatoriconflicteurba.org/media/posts/89/responsive/cartel_incivisme2-lg.jpg 1024w ,https://www2.observatoriconflicteurba.org/media/posts/89/responsive/cartel_incivisme2-xl.jpg 1360w ,https://www2.observatoriconflicteurba.org/media/posts/89/responsive/cartel_incivisme2-2xl.jpg 1600w\"></figure></em></p>\n<p class=\"align-center\"><em>Incivismes: Diàlegs sobre la destrucció i l'entristiment de les ciutats</em></p>",
+            "author": {
+                "name": "OACU"
+            },
+            "tags": [
+                   "Incivismes",
+                   "Activitats"
+            ],
+            "date_published": "2023-06-07T16:08:36+02:00",
+            "date_modified": "2023-06-07T16:08:36+02:00"
+        },
+        {
             "id": "https://www2.observatoriconflicteurba.org/la-comunidad-de-can-masdeu-genesis-y-cismogenesis-per-mikel-ortiz/",
             "url": "https://www2.observatoriconflicteurba.org/la-comunidad-de-can-masdeu-genesis-y-cismogenesis-per-mikel-ortiz/",
             "title": "La Comunidad de Can Masdeu. Génesis y Cismogénesis",
@@ -150,22 +166,6 @@
             ],
             "date_published": "2021-06-04T18:25:00+02:00",
             "date_modified": "2023-05-30T18:27:48+02:00"
-        },
-        {
-            "id": "https://www2.observatoriconflicteurba.org/esperits-de-la-diaspora-ritual-i-espai-urba-entre-casablanca-i-barcelona/",
-            "url": "https://www2.observatoriconflicteurba.org/esperits-de-la-diaspora-ritual-i-espai-urba-entre-casablanca-i-barcelona/",
-            "title": "Esperits de la diàspora: ritual i espai urbà entre Casablanca i Barcelona",
-            "summary": "La transformació de l'espai urbà afecta les pràctiques populars arrelades als barris, a les places i als carrers; la demolició d'un barri i el trasllat dels seus habitants poden transformar definitivament les relacions socials, amb efectes no només econòmics sinó també culturals i polítics. Un&hellip;",
-            "content_html": "<p>La transformació de l'espai urbà afecta les pràctiques populars arrelades als barris, a les places i als carrers; la demolició d'un barri i el trasllat dels seus habitants poden transformar definitivament les relacions socials, amb efectes no només econòmics sinó també culturals i polítics. Un dels aspectes menys estudiat d'aquestes transformacions és l'impacte sobre la vida religiosa i ritual de les classes populars. A partir d'un treball de recerca desenvolupat a la ciutat de Casablanca presentaré les característiques espacials d'un complex musical i religiós molt arrelat a la antiga medina de la ciutat, el de la confraria Gnawa, intentant esbrinar quins efectes té la gentrificació del centre de la ciutat sobre el desenvolupament de la seva vida ritual.</p>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube-nocookie.com/embed/u7St3OCmYjE\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "author": {
-                "name": "OACU"
-            },
-            "tags": [
-                   "Seminari de recerca",
-                   "Activitats"
-            ],
-            "date_published": "2021-06-04T18:23:00+02:00",
-            "date_modified": "2023-05-30T18:23:48+02:00"
         }
     ]
 }

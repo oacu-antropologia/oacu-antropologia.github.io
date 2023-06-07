@@ -3,12 +3,35 @@
     <title>OACU | Web</title>
     <link href="https://www2.observatoriconflicteurba.org/feed.xml" rel="self" />
     <link href="https://www2.observatoriconflicteurba.org" />
-    <updated>2023-06-05T15:31:15+02:00</updated>
+    <updated>2023-06-07T16:08:36+02:00</updated>
     <author>
         <name>OACU</name>
     </author>
     <id>https://www2.observatoriconflicteurba.org</id>
 
+    <entry>
+        <title>Los chalecos amarillos en el planeta de los simios: el motor racista de la extrema derecha en Chile</title>
+        <author>
+            <name>OACU</name>
+        </author>
+        <link href="https://www2.observatoriconflicteurba.org/los-chalecos-amarillos-en-el-planeta-de-los-simios-el-motor-racista-de-la-extrema-derecha-en-chile/"/>
+        <id>https://www2.observatoriconflicteurba.org/los-chalecos-amarillos-en-el-planeta-de-los-simios-el-motor-racista-de-la-extrema-derecha-en-chile/</id>
+            <category term="Incivismes"/>
+            <category term="Activitats"/>
+
+        <updated>2023-06-07T16:08:36+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Incivismes: Diàlegs sobre la destrucció i l'entristiment de les ciutats
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image post__image--center align-center"><em><img loading="lazy"  src="https://www2.observatoriconflicteurba.org/media/posts/89/cartel_incivisme2.jpg" alt="" width="1280" height="720" sizes="100vw" srcset="https://www2.observatoriconflicteurba.org/media/posts/89/responsive/cartel_incivisme2-xs.jpg 300w ,https://www2.observatoriconflicteurba.org/media/posts/89/responsive/cartel_incivisme2-sm.jpg 480w ,https://www2.observatoriconflicteurba.org/media/posts/89/responsive/cartel_incivisme2-md.jpg 768w ,https://www2.observatoriconflicteurba.org/media/posts/89/responsive/cartel_incivisme2-lg.jpg 1024w ,https://www2.observatoriconflicteurba.org/media/posts/89/responsive/cartel_incivisme2-xl.jpg 1360w ,https://www2.observatoriconflicteurba.org/media/posts/89/responsive/cartel_incivisme2-2xl.jpg 1600w"></figure></em></p>
+<p class="align-center"><em>Incivismes: Diàlegs sobre la destrucció i l'entristiment de les ciutats</em></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>La Comunidad de Can Masdeu. Génesis y Cismogénesis</title>
         <author>
@@ -288,29 +311,6 @@
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube-nocookie.com/embed/bfmwDNsAUc8" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p>Léxico ciudadanista: reflexiones sobre el discurso de la nueva izquierda, es un ciclo de seminarios organizado por Dario Lovaglio y Guillermo Aguirre en el seno del Observatori de l'Antropologia del Conflicte Urbà (OACU).</p>
 <p>Después del ciclo de movimientos sociales anti-austeridad de 2011, la izquierda española ha renovado su discurso haciendo propias unas palabras que le han permitido retomar un renovado protagonismo. Este ciclo de seminarios pretende problematizar el uso de determinados conceptos usados por los nuevos partidos municipalistas y propios del ciudadanismo como ideología que otorga al ciudadano una corresponsabilidad en las iniciativas políticas que le afectan. Aquí señalamos algunas de las palabras que han marcado el debate político internacional de esta última década, sin un orden de importancia y sin la pretensión de analizar exhaustivamente el vocabulario de la nueva izquierda occidental. En cada cita tomaremos una palabra que consideramos relevante en el léxico ciudadanista, para discutirla y profundizar en ella con un invitado que pondrá a prueba las implicaciones de su significado para problematizar su uso y los efectos que produce en el escenario político y social.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Esperits de la diàspora: ritual i espai urbà entre Casablanca i Barcelona</title>
-        <author>
-            <name>OACU</name>
-        </author>
-        <link href="https://www2.observatoriconflicteurba.org/esperits-de-la-diaspora-ritual-i-espai-urba-entre-casablanca-i-barcelona/"/>
-        <id>https://www2.observatoriconflicteurba.org/esperits-de-la-diaspora-ritual-i-espai-urba-entre-casablanca-i-barcelona/</id>
-            <category term="Seminari de recerca"/>
-            <category term="Activitats"/>
-
-        <updated>2023-05-30T18:23:48+02:00</updated>
-            <summary>
-                <![CDATA[
-                    La transformació de l'espai urbà afecta les pràctiques populars arrelades als barris, a les places i als carrers; la demolició d'un barri i el trasllat dels seus habitants poden transformar definitivament les relacions socials, amb efectes no només econòmics sinó també culturals i polítics. Un&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>La transformació de l'espai urbà afecta les pràctiques populars arrelades als barris, a les places i als carrers; la demolició d'un barri i el trasllat dels seus habitants poden transformar definitivament les relacions socials, amb efectes no només econòmics sinó també culturals i polítics. Un dels aspectes menys estudiat d'aquestes transformacions és l'impacte sobre la vida religiosa i ritual de les classes populars. A partir d'un treball de recerca desenvolupat a la ciutat de Casablanca presentaré les característiques espacials d'un complex musical i religiós molt arrelat a la antiga medina de la ciutat, el de la confraria Gnawa, intentant esbrinar quins efectes té la gentrificació del centre de la ciutat sobre el desenvolupament de la seva vida ritual.</p>
-<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube-nocookie.com/embed/u7St3OCmYjE" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
