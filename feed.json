@@ -27,22 +27,6 @@
             "date_modified": "2023-12-07T10:11:34+01:00"
         },
         {
-            "id": "https://observatoriconflicteurba.org/prev-una-aproximacion-a-la-islamofobia-subyacente-en-la-prevencion-del-extremismo-violento/",
-            "url": "https://observatoriconflicteurba.org/prev-una-aproximacion-a-la-islamofobia-subyacente-en-la-prevencion-del-extremismo-violento/",
-            "title": "PREV: Una aproximación a la islamofobia subyacente en la prevención del extremismo violento",
-            "summary": "Ainhoa Nadia Douhaibi, Investigadora del projecte REACT. Martin Lundsteen, Investigador Beatriu de Pinós, Dep. d'Antropologia Social, UB. Coordinador del projecte REACT. Organitza: Observatori Antropologia del Conflicte Urbà (OACU), Grup de Recerca sobre Exclusió i Control Socials (GRECS/UB), Grup de treball Antropologia del Conflicte Urbà/ICA. Lloc: Aula 204, Facultat de Geografia&hellip;",
-            "content_html": "<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://observatoriconflicteurba.org/media/posts/99/unnamed.jpg\" alt=\"\" width=\"1200\" height=\"1698\" sizes=\"100vw\" srcset=\"https://observatoriconflicteurba.org/media/posts/99/responsive/unnamed-xs.jpg 300w ,https://observatoriconflicteurba.org/media/posts/99/responsive/unnamed-sm.jpg 480w ,https://observatoriconflicteurba.org/media/posts/99/responsive/unnamed-md.jpg 768w ,https://observatoriconflicteurba.org/media/posts/99/responsive/unnamed-lg.jpg 1024w ,https://observatoriconflicteurba.org/media/posts/99/responsive/unnamed-xl.jpg 1360w ,https://observatoriconflicteurba.org/media/posts/99/responsive/unnamed-2xl.jpg 1600w\"></figure>\n<p><strong>Ainhoa Nadia Douhaibi, </strong>Investigadora del projecte REACT.<strong><br></strong><strong>Martin Lundsteen, </strong>Investigador Beatriu de Pinós, Dep. d'Antropologia Social, UB. Coordinador del projecte REACT.</p>\n<p><br>Organitza: Observatori Antropologia del Conflicte Urbà (OACU), Grup de Recerca sobre Exclusió i Control Socials (GRECS/UB), Grup de treball Antropologia del Conflicte Urbà/ICA.<br>Lloc: Aula 204, Facultat de Geografia i Història, Universitat de Barcelona (C. Montalegre 6, Barcelona). </p>",
-            "author": {
-                "name": "OACU"
-            },
-            "tags": [
-                   "Seminari de recerca",
-                   "Activitats"
-            ],
-            "date_published": "2023-12-06T10:14:00+01:00",
-            "date_modified": "2023-12-07T10:14:30+01:00"
-        },
-        {
             "id": "https://observatoriconflicteurba.org/la-festa-domesticada-protocols-i-noves-sintaxis-festives/",
             "url": "https://observatoriconflicteurba.org/la-festa-domesticada-protocols-i-noves-sintaxis-festives/",
             "title": "La festa domesticada? Protocols i noves sintaxis festives",
@@ -165,6 +149,22 @@
             ],
             "date_published": "2023-06-05T13:39:11+02:00",
             "date_modified": "2023-06-05T15:31:15+02:00"
+        },
+        {
+            "id": "https://observatoriconflicteurba.org/del-boudoir-al-trottoir/",
+            "url": "https://observatoriconflicteurba.org/del-boudoir-al-trottoir/",
+            "title": "Del &quot;boudoir&quot; al &quot;trottoir&quot;. Per Christianne Gomez",
+            "summary": "Incivismes: Diàlegs sobre la destrucció i l'entristiment de les ciutats.",
+            "content_html": "<p> </p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://observatoriconflicteurba.org/media/posts/83/ChristianneGomes.jpg\" alt=\"\" width=\"1200\" height=\"628\" sizes=\"100vw\" srcset=\"https://observatoriconflicteurba.org/media/posts/83/responsive/ChristianneGomes-xs.jpg 300w ,https://observatoriconflicteurba.org/media/posts/83/responsive/ChristianneGomes-sm.jpg 480w ,https://observatoriconflicteurba.org/media/posts/83/responsive/ChristianneGomes-md.jpg 768w ,https://observatoriconflicteurba.org/media/posts/83/responsive/ChristianneGomes-lg.jpg 1024w ,https://observatoriconflicteurba.org/media/posts/83/responsive/ChristianneGomes-xl.jpg 1360w ,https://observatoriconflicteurba.org/media/posts/83/responsive/ChristianneGomes-2xl.jpg 1600w\"></figure>\n<p class=\"align-center\">Incivismes: Diàlegs sobre la destrucció i l'entristiment de les ciutats.</p>",
+            "author": {
+                "name": "OACU"
+            },
+            "tags": [
+                   "Incivismes",
+                   "Activitats"
+            ],
+            "date_published": "2023-05-19T11:48:00+02:00",
+            "date_modified": "2023-05-31T11:57:22+02:00"
         }
     ]
 }
