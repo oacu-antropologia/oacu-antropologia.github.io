@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://observatoriconflicteurba.org/aproximacion-interdisciplinar-a-la-movilidad-peatonal-en-las-superilles-de-barcelona/",
+            "url": "https://observatoriconflicteurba.org/aproximacion-interdisciplinar-a-la-movilidad-peatonal-en-las-superilles-de-barcelona/",
+            "title": "Aproximación interdisciplinar a la movilidad peatonal en las Superilles de Barcelona",
+            "summary": "Lloc: Facultat de Geografia i Història - Universitat de Barcelona Aula: A102 Hora: 19h",
+            "content_html": "<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://observatoriconflicteurba.org/media/posts/100/SeminariOACU_Desembre2023_GabrielaNavas.jpg\" alt=\"\" width=\"1587\" height=\"2245\" sizes=\"100vw\" srcset=\"https://observatoriconflicteurba.org/media/posts/100/responsive/SeminariOACU_Desembre2023_GabrielaNavas-xs.jpg 300w ,https://observatoriconflicteurba.org/media/posts/100/responsive/SeminariOACU_Desembre2023_GabrielaNavas-sm.jpg 480w ,https://observatoriconflicteurba.org/media/posts/100/responsive/SeminariOACU_Desembre2023_GabrielaNavas-md.jpg 768w ,https://observatoriconflicteurba.org/media/posts/100/responsive/SeminariOACU_Desembre2023_GabrielaNavas-lg.jpg 1024w ,https://observatoriconflicteurba.org/media/posts/100/responsive/SeminariOACU_Desembre2023_GabrielaNavas-xl.jpg 1360w ,https://observatoriconflicteurba.org/media/posts/100/responsive/SeminariOACU_Desembre2023_GabrielaNavas-2xl.jpg 1600w\"></figure><strong>Lloc</strong>: Facultat de Geografia i Història - Universitat de Barcelona</p>\n<p><strong>Aula</strong>: A102</p>\n<p><strong>Hora</strong>: 19h</p>",
+            "author": {
+                "name": "OACU"
+            },
+            "tags": [
+                   "Seminari de recerca",
+                   "Activitats"
+            ],
+            "date_published": "2023-12-08T09:17:27+01:00",
+            "date_modified": "2023-12-08T09:17:27+01:00"
+        },
+        {
             "id": "https://observatoriconflicteurba.org/ii-jornades-de-marges-i-periferies-urbanes/",
             "url": "https://observatoriconflicteurba.org/ii-jornades-de-marges-i-periferies-urbanes/",
             "title": "II Jornades de Marges i Perifèries Urbanes",
@@ -149,22 +165,6 @@
             ],
             "date_published": "2023-06-05T13:39:11+02:00",
             "date_modified": "2023-06-05T15:31:15+02:00"
-        },
-        {
-            "id": "https://observatoriconflicteurba.org/del-boudoir-al-trottoir/",
-            "url": "https://observatoriconflicteurba.org/del-boudoir-al-trottoir/",
-            "title": "Del &quot;boudoir&quot; al &quot;trottoir&quot;. Per Christianne Gomez",
-            "summary": "Incivismes: Diàlegs sobre la destrucció i l'entristiment de les ciutats.",
-            "content_html": "<p> </p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://observatoriconflicteurba.org/media/posts/83/ChristianneGomes.jpg\" alt=\"\" width=\"1200\" height=\"628\" sizes=\"100vw\" srcset=\"https://observatoriconflicteurba.org/media/posts/83/responsive/ChristianneGomes-xs.jpg 300w ,https://observatoriconflicteurba.org/media/posts/83/responsive/ChristianneGomes-sm.jpg 480w ,https://observatoriconflicteurba.org/media/posts/83/responsive/ChristianneGomes-md.jpg 768w ,https://observatoriconflicteurba.org/media/posts/83/responsive/ChristianneGomes-lg.jpg 1024w ,https://observatoriconflicteurba.org/media/posts/83/responsive/ChristianneGomes-xl.jpg 1360w ,https://observatoriconflicteurba.org/media/posts/83/responsive/ChristianneGomes-2xl.jpg 1600w\"></figure>\n<p class=\"align-center\">Incivismes: Diàlegs sobre la destrucció i l'entristiment de les ciutats.</p>",
-            "author": {
-                "name": "OACU"
-            },
-            "tags": [
-                   "Incivismes",
-                   "Activitats"
-            ],
-            "date_published": "2023-05-19T11:48:00+02:00",
-            "date_modified": "2023-05-31T11:57:22+02:00"
         }
     ]
 }
