@@ -3,12 +3,30 @@
     <title>OACU | Web</title>
     <link href="https://observatoriconflicteurba.org/feed.xml" rel="self" />
     <link href="https://observatoriconflicteurba.org" />
-    <updated>2023-12-08T09:17:27+01:00</updated>
+    <updated>2023-12-10T13:10:34+01:00</updated>
     <author>
         <name>OACU</name>
     </author>
     <id>https://observatoriconflicteurba.org</id>
 
+    <entry>
+        <title>Viajar mundos en la Villa 31, per Samira Proeza</title>
+        <author>
+            <name>OACU</name>
+        </author>
+        <link href="https://observatoriconflicteurba.org/viajar-mundos-en-la-villa-31-per-samira-proeza/"/>
+        <id>https://observatoriconflicteurba.org/viajar-mundos-en-la-villa-31-per-samira-proeza/</id>
+            <category term="Incivismes"/>
+            <category term="Activitats"/>
+
+        <updated>2023-12-10T13:10:34+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image post__image--center"><img loading="lazy"  src="https://observatoriconflicteurba.org/media/posts/101/Samira-Proeza-12.23.jpg" alt="" width="960" height="540" sizes="100vw" srcset="https://observatoriconflicteurba.org/media/posts/101/responsive/Samira-Proeza-12.23-xs.jpg 300w ,https://observatoriconflicteurba.org/media/posts/101/responsive/Samira-Proeza-12.23-sm.jpg 480w ,https://observatoriconflicteurba.org/media/posts/101/responsive/Samira-Proeza-12.23-md.jpg 768w ,https://observatoriconflicteurba.org/media/posts/101/responsive/Samira-Proeza-12.23-lg.jpg 1024w ,https://observatoriconflicteurba.org/media/posts/101/responsive/Samira-Proeza-12.23-xl.jpg 1360w ,https://observatoriconflicteurba.org/media/posts/101/responsive/Samira-Proeza-12.23-2xl.jpg 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Aproximación interdisciplinar a la movilidad peatonal en las Superilles de Barcelona</title>
         <author>
@@ -629,24 +647,6 @@
             <![CDATA[
                 <figure class="post__image post__image--center align-center"><em><img loading="lazy"  src="https://observatoriconflicteurba.org/media/posts/89/cartel_incivisme2.jpg" alt="" width="1280" height="720" sizes="100vw" srcset="https://observatoriconflicteurba.org/media/posts/89/responsive/cartel_incivisme2-xs.jpg 300w ,https://observatoriconflicteurba.org/media/posts/89/responsive/cartel_incivisme2-sm.jpg 480w ,https://observatoriconflicteurba.org/media/posts/89/responsive/cartel_incivisme2-md.jpg 768w ,https://observatoriconflicteurba.org/media/posts/89/responsive/cartel_incivisme2-lg.jpg 1024w ,https://observatoriconflicteurba.org/media/posts/89/responsive/cartel_incivisme2-xl.jpg 1360w ,https://observatoriconflicteurba.org/media/posts/89/responsive/cartel_incivisme2-2xl.jpg 1600w"></figure></em></p>
 <p class="align-center"><em>Incivismes: Diàlegs sobre la destrucció i l'entristiment de les ciutats</em></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>La Comunidad de Can Masdeu. Génesis y Cismogénesis</title>
-        <author>
-            <name>OACU</name>
-        </author>
-        <link href="https://observatoriconflicteurba.org/la-comunidad-de-can-masdeu-genesis-y-cismogenesis-per-mikel-ortiz/"/>
-        <id>https://observatoriconflicteurba.org/la-comunidad-de-can-masdeu-genesis-y-cismogenesis-per-mikel-ortiz/</id>
-            <category term="Seminari de recerca"/>
-            <category term="Activitats"/>
-
-        <updated>2023-06-05T15:31:15+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <figure class="post__image post__image--center"><img loading="lazy"  src="https://observatoriconflicteurba.org/media/posts/88/Seminari-de-Recerca-OACU-Juny.png" alt="" width="1587" height="2245" sizes="100vw" srcset="https://observatoriconflicteurba.org/media/posts/88/responsive/Seminari-de-Recerca-OACU-Juny-xs.png 300w ,https://observatoriconflicteurba.org/media/posts/88/responsive/Seminari-de-Recerca-OACU-Juny-sm.png 480w ,https://observatoriconflicteurba.org/media/posts/88/responsive/Seminari-de-Recerca-OACU-Juny-md.png 768w ,https://observatoriconflicteurba.org/media/posts/88/responsive/Seminari-de-Recerca-OACU-Juny-lg.png 1024w ,https://observatoriconflicteurba.org/media/posts/88/responsive/Seminari-de-Recerca-OACU-Juny-xl.png 1360w ,https://observatoriconflicteurba.org/media/posts/88/responsive/Seminari-de-Recerca-OACU-Juny-2xl.png 1600w"></figure>
             ]]>
         </content>
     </entry>

@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://observatoriconflicteurba.org/viajar-mundos-en-la-villa-31-per-samira-proeza/",
+            "url": "https://observatoriconflicteurba.org/viajar-mundos-en-la-villa-31-per-samira-proeza/",
+            "title": "Viajar mundos en la Villa 31, per Samira Proeza",
+            "content_html": "<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://observatoriconflicteurba.org/media/posts/101/Samira-Proeza-12.23.jpg\" alt=\"\" width=\"960\" height=\"540\" sizes=\"100vw\" srcset=\"https://observatoriconflicteurba.org/media/posts/101/responsive/Samira-Proeza-12.23-xs.jpg 300w ,https://observatoriconflicteurba.org/media/posts/101/responsive/Samira-Proeza-12.23-sm.jpg 480w ,https://observatoriconflicteurba.org/media/posts/101/responsive/Samira-Proeza-12.23-md.jpg 768w ,https://observatoriconflicteurba.org/media/posts/101/responsive/Samira-Proeza-12.23-lg.jpg 1024w ,https://observatoriconflicteurba.org/media/posts/101/responsive/Samira-Proeza-12.23-xl.jpg 1360w ,https://observatoriconflicteurba.org/media/posts/101/responsive/Samira-Proeza-12.23-2xl.jpg 1600w\"></figure>",
+            "author": {
+                "name": "OACU"
+            },
+            "tags": [
+                   "Incivismes",
+                   "Activitats"
+            ],
+            "date_published": "2023-12-10T13:10:34+01:00",
+            "date_modified": "2023-12-10T13:10:34+01:00"
+        },
+        {
             "id": "https://observatoriconflicteurba.org/aproximacion-interdisciplinar-a-la-movilidad-peatonal-en-las-superilles-de-barcelona/",
             "url": "https://observatoriconflicteurba.org/aproximacion-interdisciplinar-a-la-movilidad-peatonal-en-las-superilles-de-barcelona/",
             "title": "Aproximación interdisciplinar a la movilidad peatonal en las Superilles de Barcelona",
@@ -150,21 +165,6 @@
             ],
             "date_published": "2023-06-07T16:08:36+02:00",
             "date_modified": "2023-06-07T16:08:36+02:00"
-        },
-        {
-            "id": "https://observatoriconflicteurba.org/la-comunidad-de-can-masdeu-genesis-y-cismogenesis-per-mikel-ortiz/",
-            "url": "https://observatoriconflicteurba.org/la-comunidad-de-can-masdeu-genesis-y-cismogenesis-per-mikel-ortiz/",
-            "title": "La Comunidad de Can Masdeu. Génesis y Cismogénesis",
-            "content_html": "<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://observatoriconflicteurba.org/media/posts/88/Seminari-de-Recerca-OACU-Juny.png\" alt=\"\" width=\"1587\" height=\"2245\" sizes=\"100vw\" srcset=\"https://observatoriconflicteurba.org/media/posts/88/responsive/Seminari-de-Recerca-OACU-Juny-xs.png 300w ,https://observatoriconflicteurba.org/media/posts/88/responsive/Seminari-de-Recerca-OACU-Juny-sm.png 480w ,https://observatoriconflicteurba.org/media/posts/88/responsive/Seminari-de-Recerca-OACU-Juny-md.png 768w ,https://observatoriconflicteurba.org/media/posts/88/responsive/Seminari-de-Recerca-OACU-Juny-lg.png 1024w ,https://observatoriconflicteurba.org/media/posts/88/responsive/Seminari-de-Recerca-OACU-Juny-xl.png 1360w ,https://observatoriconflicteurba.org/media/posts/88/responsive/Seminari-de-Recerca-OACU-Juny-2xl.png 1600w\"></figure>",
-            "author": {
-                "name": "OACU"
-            },
-            "tags": [
-                   "Seminari de recerca",
-                   "Activitats"
-            ],
-            "date_published": "2023-06-05T13:39:11+02:00",
-            "date_modified": "2023-06-05T15:31:15+02:00"
         }
     ]
 }
