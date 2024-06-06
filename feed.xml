@@ -3,12 +3,29 @@
     <title>OACU | Web</title>
     <link href="https://observatoriconflicteurba.org/feed.xml" rel="self" />
     <link href="https://observatoriconflicteurba.org" />
-    <updated>2024-04-29T11:53:51+02:00</updated>
+    <updated>2024-06-06T12:43:38+02:00</updated>
     <author>
         <name>OACU</name>
     </author>
     <id>https://observatoriconflicteurba.org</id>
 
+    <entry>
+        <title>Presentació &quot;La Ciudad Confinada&quot; de Juliana Marcús</title>
+        <author>
+            <name>OACU</name>
+        </author>
+        <link href="https://observatoriconflicteurba.org/presentacio-la-ciudad-confinada-de-juliana-marcus/"/>
+        <id>https://observatoriconflicteurba.org/presentacio-la-ciudad-confinada-de-juliana-marcus/</id>
+            <category term="Activitats"/>
+
+        <updated>2024-06-06T12:43:38+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image post__image--center"><img loading="lazy"  src="https://observatoriconflicteurba.org/media/posts/111/unnamed-1.jpg" alt="" width="1587" height="2245" sizes="100vw" srcset="https://observatoriconflicteurba.org/media/posts/111/responsive/unnamed-1-xs.jpg 300w ,https://observatoriconflicteurba.org/media/posts/111/responsive/unnamed-1-sm.jpg 480w ,https://observatoriconflicteurba.org/media/posts/111/responsive/unnamed-1-md.jpg 768w ,https://observatoriconflicteurba.org/media/posts/111/responsive/unnamed-1-lg.jpg 1024w ,https://observatoriconflicteurba.org/media/posts/111/responsive/unnamed-1-xl.jpg 1360w ,https://observatoriconflicteurba.org/media/posts/111/responsive/unnamed-1-2xl.jpg 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>La cultura como territorio en disputa. Fiestas y luchas vecinales en los barrios de Nou Barris (1977-1985)</title>
         <author>
@@ -305,24 +322,6 @@
 <p>Organització / Dinamització / Producció de continguts a càrrec de: Marta Contijoch (tècnica i investigadora a l’OACU – Observatori d’Antropologia del Conflicte Urbà i professora associada al GRECS/ UB), Martí Torra (tècnic i investigador a l’OACU), Juan Granero (doctorand a la UB i investigador a l’ICA), Oriol Pascual (doctorand, professor i investigador a GRECS/ UB, investigador a l’OACU), Marc Navarro (Inst. Municipal Reus Cultura). En representació per part del Departament de Cultura de la Generalitat de Catalunya – DG de Cultura Popular i Associacionisme Cultural: directora general Adelaida Moya i Subdirectora general Cristina Sanchís. Equip tècnic: Georgina Garcia, Rosa Canela, Judit Bertran, Oriol Cendra i Pol Fàbregas.</p>
 <p>Unes jornades coorganitzades entre el Departament de Cultura a través de la Direcció General de Cultura Popular i Associacionisme Cultural conjuntament amb el Grup de Recerca sobre Exclusió i Control Social (GRECS) i la Universitat de Barcelona. Amb el suport i col·laboració de l'Observatori d'Antropologia del Conflicte Urbà, Cultura Popular i Conflicte, i l'Institut Català d'Antropologia.</p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Manuel João Ramos (ISCTE), &quot;Lisboa es un pastel. Turistificación y patrimonio cucañico&quot;</title>
-        <author>
-            <name>OACU</name>
-        </author>
-        <link href="https://observatoriconflicteurba.org/manuel-joao-ramos-iscte-lisboa-es-un-pastel-turistificacion-y-patrimonio-cucanico/"/>
-        <id>https://observatoriconflicteurba.org/manuel-joao-ramos-iscte-lisboa-es-un-pastel-turistificacion-y-patrimonio-cucanico/</id>
-            <category term="Incivismes"/>
-            <category term="Activitats"/>
-
-        <updated>2023-09-28T19:37:04+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://observatoriconflicteurba.org/media/posts/94/Manuel-Joao-Ramos.jpg" alt="" width="960" height="540" sizes="100vw" srcset="https://observatoriconflicteurba.org/media/posts/94/responsive/Manuel-Joao-Ramos-xs.jpg 300w ,https://observatoriconflicteurba.org/media/posts/94/responsive/Manuel-Joao-Ramos-sm.jpg 480w ,https://observatoriconflicteurba.org/media/posts/94/responsive/Manuel-Joao-Ramos-md.jpg 768w ,https://observatoriconflicteurba.org/media/posts/94/responsive/Manuel-Joao-Ramos-lg.jpg 1024w ,https://observatoriconflicteurba.org/media/posts/94/responsive/Manuel-Joao-Ramos-xl.jpg 1360w ,https://observatoriconflicteurba.org/media/posts/94/responsive/Manuel-Joao-Ramos-2xl.jpg 1600w"></figure>
             ]]>
         </content>
     </entry>

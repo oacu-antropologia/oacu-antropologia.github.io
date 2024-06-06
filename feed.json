@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://observatoriconflicteurba.org/presentacio-la-ciudad-confinada-de-juliana-marcus/",
+            "url": "https://observatoriconflicteurba.org/presentacio-la-ciudad-confinada-de-juliana-marcus/",
+            "title": "Presentació &quot;La Ciudad Confinada&quot; de Juliana Marcús",
+            "content_html": "<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://observatoriconflicteurba.org/media/posts/111/unnamed-1.jpg\" alt=\"\" width=\"1587\" height=\"2245\" sizes=\"100vw\" srcset=\"https://observatoriconflicteurba.org/media/posts/111/responsive/unnamed-1-xs.jpg 300w ,https://observatoriconflicteurba.org/media/posts/111/responsive/unnamed-1-sm.jpg 480w ,https://observatoriconflicteurba.org/media/posts/111/responsive/unnamed-1-md.jpg 768w ,https://observatoriconflicteurba.org/media/posts/111/responsive/unnamed-1-lg.jpg 1024w ,https://observatoriconflicteurba.org/media/posts/111/responsive/unnamed-1-xl.jpg 1360w ,https://observatoriconflicteurba.org/media/posts/111/responsive/unnamed-1-2xl.jpg 1600w\"></figure>",
+            "author": {
+                "name": "OACU"
+            },
+            "tags": [
+                   "Activitats"
+            ],
+            "date_published": "2024-06-06T12:43:38+02:00",
+            "date_modified": "2024-06-06T12:43:38+02:00"
+        },
+        {
             "id": "https://observatoriconflicteurba.org/la-cultura-como-territorio-en-disputa-fiestas-y-luchas-vecinales-en-los-barrios-de-nou-barris-1977-1985/",
             "url": "https://observatoriconflicteurba.org/la-cultura-como-territorio-en-disputa-fiestas-y-luchas-vecinales-en-los-barrios-de-nou-barris-1977-1985/",
             "title": "La cultura como territorio en disputa. Fiestas y luchas vecinales en los barrios de Nou Barris (1977-1985)",
@@ -152,21 +166,6 @@
             ],
             "date_published": "2023-10-05T18:26:07+02:00",
             "date_modified": "2023-11-17T18:34:47+01:00"
-        },
-        {
-            "id": "https://observatoriconflicteurba.org/manuel-joao-ramos-iscte-lisboa-es-un-pastel-turistificacion-y-patrimonio-cucanico/",
-            "url": "https://observatoriconflicteurba.org/manuel-joao-ramos-iscte-lisboa-es-un-pastel-turistificacion-y-patrimonio-cucanico/",
-            "title": "Manuel João Ramos (ISCTE), &quot;Lisboa es un pastel. Turistificación y patrimonio cucañico&quot;",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://observatoriconflicteurba.org/media/posts/94/Manuel-Joao-Ramos.jpg\" alt=\"\" width=\"960\" height=\"540\" sizes=\"100vw\" srcset=\"https://observatoriconflicteurba.org/media/posts/94/responsive/Manuel-Joao-Ramos-xs.jpg 300w ,https://observatoriconflicteurba.org/media/posts/94/responsive/Manuel-Joao-Ramos-sm.jpg 480w ,https://observatoriconflicteurba.org/media/posts/94/responsive/Manuel-Joao-Ramos-md.jpg 768w ,https://observatoriconflicteurba.org/media/posts/94/responsive/Manuel-Joao-Ramos-lg.jpg 1024w ,https://observatoriconflicteurba.org/media/posts/94/responsive/Manuel-Joao-Ramos-xl.jpg 1360w ,https://observatoriconflicteurba.org/media/posts/94/responsive/Manuel-Joao-Ramos-2xl.jpg 1600w\"></figure>",
-            "author": {
-                "name": "OACU"
-            },
-            "tags": [
-                   "Incivismes",
-                   "Activitats"
-            ],
-            "date_published": "2023-09-28T19:37:04+02:00",
-            "date_modified": "2023-09-28T19:37:04+02:00"
         }
     ]
 }
