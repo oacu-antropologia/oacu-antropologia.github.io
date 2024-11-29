@@ -3,12 +3,28 @@
     <title>OACU | Web</title>
     <link href="https://observatoriconflicteurba.org/feed.xml" rel="self" />
     <link href="https://observatoriconflicteurba.org" />
-    <updated>2024-10-11T13:00:06+02:00</updated>
+    <updated>2024-11-29T11:18:36+01:00</updated>
     <author>
         <name>OACU</name>
     </author>
     <id>https://observatoriconflicteurba.org</id>
 
+    <entry>
+        <title>Incivismes | ¿Ciudad Sostenible?</title>
+        <author>
+            <name>OACU</name>
+        </author>
+        <link href="https://observatoriconflicteurba.org/incivismes-or-ciudad-sostenible/"/>
+        <id>https://observatoriconflicteurba.org/incivismes-or-ciudad-sostenible/</id>
+
+        <updated>2024-11-29T11:18:36+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image post__image--center"><img loading="lazy"  src="https://observatoriconflicteurba.org/media/posts/118/Outlook-poxvnkuh.jpg" alt="" width="960" height="540" sizes="100vw" srcset="https://observatoriconflicteurba.org/media/posts/118/responsive/Outlook-poxvnkuh-xs.jpg 300w ,https://observatoriconflicteurba.org/media/posts/118/responsive/Outlook-poxvnkuh-sm.jpg 480w ,https://observatoriconflicteurba.org/media/posts/118/responsive/Outlook-poxvnkuh-md.jpg 768w ,https://observatoriconflicteurba.org/media/posts/118/responsive/Outlook-poxvnkuh-lg.jpg 1024w ,https://observatoriconflicteurba.org/media/posts/118/responsive/Outlook-poxvnkuh-xl.jpg 1360w ,https://observatoriconflicteurba.org/media/posts/118/responsive/Outlook-poxvnkuh-2xl.jpg 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>INCIVISMES | Bloques del Carnaval</title>
         <author>
@@ -270,30 +286,6 @@
             <![CDATA[
                 <figure class="post__image post__image--center"><img loading="lazy"  src="https://observatoriconflicteurba.org/media/posts/101/Samira-Proeza-12.23.jpg" alt="" width="960" height="540" sizes="100vw" srcset="https://observatoriconflicteurba.org/media/posts/101/responsive/Samira-Proeza-12.23-xs.jpg 300w ,https://observatoriconflicteurba.org/media/posts/101/responsive/Samira-Proeza-12.23-sm.jpg 480w ,https://observatoriconflicteurba.org/media/posts/101/responsive/Samira-Proeza-12.23-md.jpg 768w ,https://observatoriconflicteurba.org/media/posts/101/responsive/Samira-Proeza-12.23-lg.jpg 1024w ,https://observatoriconflicteurba.org/media/posts/101/responsive/Samira-Proeza-12.23-xl.jpg 1360w ,https://observatoriconflicteurba.org/media/posts/101/responsive/Samira-Proeza-12.23-2xl.jpg 1600w"></figure>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Aproximación interdisciplinar a la movilidad peatonal en las Superilles de Barcelona</title>
-        <author>
-            <name>OACU</name>
-        </author>
-        <link href="https://observatoriconflicteurba.org/aproximacion-interdisciplinar-a-la-movilidad-peatonal-en-las-superilles-de-barcelona/"/>
-        <id>https://observatoriconflicteurba.org/aproximacion-interdisciplinar-a-la-movilidad-peatonal-en-las-superilles-de-barcelona/</id>
-            <category term="Seminari de recerca"/>
-            <category term="Activitats"/>
-
-        <updated>2023-12-08T09:17:27+01:00</updated>
-            <summary>
-                <![CDATA[
-                    Lloc: Facultat de Geografia i Història - Universitat de Barcelona Aula: A102 Hora: 19h
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <figure class="post__image post__image--center"><img loading="lazy"  src="https://observatoriconflicteurba.org/media/posts/100/SeminariOACU_Desembre2023_GabrielaNavas.jpg" alt="" width="1587" height="2245" sizes="100vw" srcset="https://observatoriconflicteurba.org/media/posts/100/responsive/SeminariOACU_Desembre2023_GabrielaNavas-xs.jpg 300w ,https://observatoriconflicteurba.org/media/posts/100/responsive/SeminariOACU_Desembre2023_GabrielaNavas-sm.jpg 480w ,https://observatoriconflicteurba.org/media/posts/100/responsive/SeminariOACU_Desembre2023_GabrielaNavas-md.jpg 768w ,https://observatoriconflicteurba.org/media/posts/100/responsive/SeminariOACU_Desembre2023_GabrielaNavas-lg.jpg 1024w ,https://observatoriconflicteurba.org/media/posts/100/responsive/SeminariOACU_Desembre2023_GabrielaNavas-xl.jpg 1360w ,https://observatoriconflicteurba.org/media/posts/100/responsive/SeminariOACU_Desembre2023_GabrielaNavas-2xl.jpg 1600w"></figure><strong>Lloc</strong>: Facultat de Geografia i Història - Universitat de Barcelona</p>
-<p><strong>Aula</strong>: A102</p>
-<p><strong>Hora</strong>: 19h</p>
             ]]>
         </content>
     </entry>

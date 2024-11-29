@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "https://observatoriconflicteurba.org/incivismes-or-ciudad-sostenible/",
+            "url": "https://observatoriconflicteurba.org/incivismes-or-ciudad-sostenible/",
+            "title": "Incivismes | ¿Ciudad Sostenible?",
+            "content_html": "<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://observatoriconflicteurba.org/media/posts/118/Outlook-poxvnkuh.jpg\" alt=\"\" width=\"960\" height=\"540\" sizes=\"100vw\" srcset=\"https://observatoriconflicteurba.org/media/posts/118/responsive/Outlook-poxvnkuh-xs.jpg 300w ,https://observatoriconflicteurba.org/media/posts/118/responsive/Outlook-poxvnkuh-sm.jpg 480w ,https://observatoriconflicteurba.org/media/posts/118/responsive/Outlook-poxvnkuh-md.jpg 768w ,https://observatoriconflicteurba.org/media/posts/118/responsive/Outlook-poxvnkuh-lg.jpg 1024w ,https://observatoriconflicteurba.org/media/posts/118/responsive/Outlook-poxvnkuh-xl.jpg 1360w ,https://observatoriconflicteurba.org/media/posts/118/responsive/Outlook-poxvnkuh-2xl.jpg 1600w\"></figure>",
+            "author": {
+                "name": "OACU"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-11-29T11:18:36+01:00",
+            "date_modified": "2024-11-29T11:18:36+01:00"
+        },
+        {
             "id": "https://observatoriconflicteurba.org/incivismes-or-bloques-del-carnaval/",
             "url": "https://observatoriconflicteurba.org/incivismes-or-bloques-del-carnaval/",
             "title": "INCIVISMES | Bloques del Carnaval",
@@ -148,22 +161,6 @@
             ],
             "date_published": "2023-12-10T13:10:34+01:00",
             "date_modified": "2023-12-26T11:31:54+01:00"
-        },
-        {
-            "id": "https://observatoriconflicteurba.org/aproximacion-interdisciplinar-a-la-movilidad-peatonal-en-las-superilles-de-barcelona/",
-            "url": "https://observatoriconflicteurba.org/aproximacion-interdisciplinar-a-la-movilidad-peatonal-en-las-superilles-de-barcelona/",
-            "title": "Aproximación interdisciplinar a la movilidad peatonal en las Superilles de Barcelona",
-            "summary": "Lloc: Facultat de Geografia i Història - Universitat de Barcelona Aula: A102 Hora: 19h",
-            "content_html": "<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://observatoriconflicteurba.org/media/posts/100/SeminariOACU_Desembre2023_GabrielaNavas.jpg\" alt=\"\" width=\"1587\" height=\"2245\" sizes=\"100vw\" srcset=\"https://observatoriconflicteurba.org/media/posts/100/responsive/SeminariOACU_Desembre2023_GabrielaNavas-xs.jpg 300w ,https://observatoriconflicteurba.org/media/posts/100/responsive/SeminariOACU_Desembre2023_GabrielaNavas-sm.jpg 480w ,https://observatoriconflicteurba.org/media/posts/100/responsive/SeminariOACU_Desembre2023_GabrielaNavas-md.jpg 768w ,https://observatoriconflicteurba.org/media/posts/100/responsive/SeminariOACU_Desembre2023_GabrielaNavas-lg.jpg 1024w ,https://observatoriconflicteurba.org/media/posts/100/responsive/SeminariOACU_Desembre2023_GabrielaNavas-xl.jpg 1360w ,https://observatoriconflicteurba.org/media/posts/100/responsive/SeminariOACU_Desembre2023_GabrielaNavas-2xl.jpg 1600w\"></figure><strong>Lloc</strong>: Facultat de Geografia i Història - Universitat de Barcelona</p>\n<p><strong>Aula</strong>: A102</p>\n<p><strong>Hora</strong>: 19h</p>",
-            "author": {
-                "name": "OACU"
-            },
-            "tags": [
-                   "Seminari de recerca",
-                   "Activitats"
-            ],
-            "date_published": "2023-12-08T09:17:27+01:00",
-            "date_modified": "2023-12-08T09:17:27+01:00"
         }
     ]
 }
